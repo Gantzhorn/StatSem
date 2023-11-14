@@ -10,5 +10,5 @@ highlights an inherent difficulty in estimation in the model. By the time of wri
 
 ## Synopsis 2
 
-In the second synopsis I considered the paper "The linear birth–death process: an inferential retrospective" by Simon Tavaré from 2013. The paper can be accesed [here](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/linear-birthdeath-process-an-inferential-retrospective/52799690050C62D855EE9A10E30128DF). This paper was also explained and discussed. In my simulation study here, however, I did a much more extensive look into MLE than what was done by the author. Highlighting some of the difficulties there. By the time of writing this README the paper has 27 citations according to Google Scholar.
+In the second synopsis I considered the paper "The linear birth–death process: an inferential retrospective" by Simon Tavaré from 2018. The paper can be accesed [here](https://www.cambridge.org/core/journals/advances-in-applied-probability/article/linear-birthdeath-process-an-inferential-retrospective/52799690050C62D855EE9A10E30128DF). This paper was also explained and discussed. In my simulation study here, however, I did a much more extensive look into MLE than what was done by the author. Highlighting some of the difficulties there. By the time of writing this README the paper has 27 citations according to Google Scholar.
 
